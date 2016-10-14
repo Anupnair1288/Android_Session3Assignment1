@@ -1,0 +1,1 @@
+Implement the hide and seek app. Consists of one TextView holding an image and one button titled "Hide/Show". Button is used to toggle the value from hide to show and show to hide.
